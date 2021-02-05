@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="Safety Issues" max_length="40" name="x_snc_m2_first_app_safety_issues" type="collection"/>
+</database>
